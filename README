@@ -1,6 +1,6 @@
 This is an implementation of the "Depixelizing Pixel Art" algorithm:
 
-  http://research.microsoft.com/en-us/um/people/kopf/pixelart/
+  https://johanneskopf.de/publications/pixelart/
 
 This code is provided under the MIT license, the full text of which is in the
 LICENSE file. As far as I know, the algorithm is not covered by any patents or
